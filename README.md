@@ -81,7 +81,7 @@ Kim Jinhan - USI
 
 ## Use Case Provider ##
 
-![BMW Logo](figures/bmw-logo.png)
+<img src="figures/bmw-logo.png" alt="BMW Logo" style="width: 80%;" />
 
 ## References ## 
 
