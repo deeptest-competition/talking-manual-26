@@ -81,7 +81,7 @@ Kim Jinhan - USI
 
 ## Use Case Provider ##
 
-BMW Group
+![BMW Logo](figures/bmw-logo.png)
 
 ## References ## 
 
