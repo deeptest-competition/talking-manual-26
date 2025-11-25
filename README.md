@@ -1,4 +1,7 @@
 # Benchmarking the Talking Owner's Manual (DeepTest Workshop Competition 26')
+<p align="center">
+  <img src="figures/deeptest-teaser.jpg" alt="Teaser" width="40%">
+</p>
 
 ## Overview ##
 
@@ -90,3 +93,4 @@ Kim Jinhan - USI
 [2] Rony, M. R. A. H.; Süß, C.; Bhat, S. R.; Sudhi, V.; Schneider, J.; Vogel, M.; Teucher, R.; Friedl, K. E.; Sahoo, S. R. CarExpert: Leveraging Large Language Models for In-Car Conversational Question Answering. 2023. Fraunhofer Publica. DOI: 10.24406/publica-2245. Available at: https://publica.fraunhofer.de/handle/publica/457518
 
 [3] Giebisch, R.; Friedl, K. E.; Sorokin, L.; Stocco, A. Automated Factual Benchmarking for In-Car Conversational Systems using Large Language Models. CoRR abs/2504.01248, 2025. Schloss Dagstuhl – Leibniz Center for Informatics. https://ieeexplore.ieee.org/document/11097480
+
