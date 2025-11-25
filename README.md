@@ -20,9 +20,9 @@ The generated user requests are evaluated on a public simplified RAG-based infor
 
 ## Registration
 
-To register for the competition, please send us your **Name**, **Affiliation & Address** to the following address: [lev.sorokin@tum.de](mailto:lev.sorokin@tum.de?subject=DeepTest%20Competition%20-%20Talking%20Manual). Use as email subject "DeepTest Competition - Talking Manual".
+To register for the competition, please send us your **Name**, **Affiliation & Address** to the following address: [lev.sorokin@tum.de](mailto:lev.sorokin@tum.de?subject=DeepTest%20Competition%20-%20Talking%20Manual). Use as email subject **DeepTest Competition - Talking Manual**.
 
-The registration is open until: *30-11-2025*.
+The registration is open until: **30-11-2025**.
 
 Please note that the number of available spots is limited. Participants will receive a confirmation email along with further instructions and access to the competition code. Registration will be accepted on a first-come, first-served basis.
 
@@ -31,8 +31,8 @@ Information about the workshop is available at: https://conf.researchr.org/home/
 
 ## Implement Your Test Generator ##
 
-We provide a code pipeline that will integrate your test generator with the system-under-test by validating, executing and evaluating your test cases. Moreover, we offer sample test generators to show how to use the code pipeline.
-For the execution of the pipeline there is no GPU-based computation needed. Access to cloud-based LLMs will be granted.
+We provide a code pipeline in **Python** that will integrate your test generator with the system-under-test by **validating**, **executing** and **evaluating** your test cases. Moreover, we offer sample test generators to show how to use the code pipeline.
+For the execution of the pipeline there is **no GPU-based computation** needed. Access to cloud-based LLMs will be granted.
 
 Consider following constraints for the generated requests:
 
@@ -93,4 +93,5 @@ Kim Jinhan - USI
 [2] Rony, M. R. A. H.; Süß, C.; Bhat, S. R.; Sudhi, V.; Schneider, J.; Vogel, M.; Teucher, R.; Friedl, K. E.; Sahoo, S. R. CarExpert: Leveraging Large Language Models for In-Car Conversational Question Answering. 2023. Fraunhofer Publica. DOI: 10.24406/publica-2245. Available at: https://publica.fraunhofer.de/handle/publica/457518
 
 [3] Giebisch, R.; Friedl, K. E.; Sorokin, L.; Stocco, A. Automated Factual Benchmarking for In-Car Conversational Systems using Large Language Models. CoRR abs/2504.01248, 2025. Schloss Dagstuhl – Leibniz Center for Informatics. https://ieeexplore.ieee.org/document/11097480
+
 
